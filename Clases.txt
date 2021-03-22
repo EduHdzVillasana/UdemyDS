@@ -1,0 +1,33 @@
+    Seccion 1: Clase 9:
+    con Jupyter notebook, da la opcion de descargar o importar el script como diferentes tipos de archivos, por ejemplo html, pdf, latex
+    y el archivo de notebooks de python (.ipynb)
+    DIFERENCIAS ENTRE .py Y .ipynb:
+    .py: es el archivo del codigo, sirve para programar
+    .ipynb: Para hacer reportes, añades titulos buenos con html, graficos, renderiza imagenes
+
+    Seccion 3: Clase 16:
+    Ejemplos de uso de data science:
+        Recomendaciones de amigos/videos/ publicaciones de diferentes redes sociales
+
+    Targeting online:
+        Recomendaciones de lo que puede que quieras comprar
+        Se busca el mayor CTR (Click Through Ratio), indicador de la eficacia de una compañia publicitaria online
+        La probabilidad de que alguien de click es con una funcion logistica
+        En los bancos es similar, asi se determinan las tasas de intereses dependiendo que tan probable
+            es que la persona que solicita el credito pague a tiempo
+
+    Predecir los crimenes en una ciudad (Minority Report)
+        Se calcula la probabilidad que un barrio tenga un crímen en un dia concreto
+        Cada día se recalcula para incluir los crímenes del día anterior
+        Esto tambien lo utilizan organizaciones terroristas para dañar a mas personas con el minimo esfuerzo
+
+    Saber que esta haciendo el usuario de los telefonos
+        Correr, o caminar o dormir
+
+    Moneyball
+        Bill James (el gordito) se dio cuenta que las metricas que se utilizaban para medir a los 
+            jugadores no eran utilies, y se enfoco en las que si (limpieza de datos)
+        Ademas de aplicarse en el baseball, tambien se utuliza este mismo metodo para decidir si invertir 
+            en una start-up
+    ********EN CONCLUCIÓN, LOS DATOS SON EL NUEVO PETROLEO**********
+
